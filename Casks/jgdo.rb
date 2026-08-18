@@ -1,8 +1,8 @@
 cask "jgdo" do
-  version "0.1.1"
-  sha256 "cdeea19825d6101c83ca7882eedbaa5444c5edabdded2712f9a509fa30b2fe1a"
+  version "0.1.9"
+  sha256 "d7cefcf769bc25e088edc1927dbf203a3a11ec3d31a03b21f465cb2c8820d0e8"
 
-  url "https://github.com/sovandara1607/jgdo-app/releases/download/v#{version}/JgDo-#{version}-arm64.dmg",
+  url "https://github.com/sovandara1607/jgdo-app/releases/download/v#{version}/JgDo-v#{version}.dmg",
       verified: "github.com/sovandara1607/jgdo-app/"
   name "JgDo"
   desc "Menu bar window manager with snapping, app switching, and workspaces"
