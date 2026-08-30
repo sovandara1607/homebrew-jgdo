@@ -1,6 +1,6 @@
 cask "jgdo" do
-  version "0.1.9"
-  sha256 "d7cefcf769bc25e088edc1927dbf203a3a11ec3d31a03b21f465cb2c8820d0e8"
+  version "0.1.13"
+  sha256 "cac8f6a7001225102b21d6a3708fe64864f40da2d9db0d5cec46cf15ae1d4448"
 
   url "https://github.com/sovandara1607/jgdo-app/releases/download/v#{version}/JgDo-v#{version}.dmg",
       verified: "github.com/sovandara1607/jgdo-app/"
